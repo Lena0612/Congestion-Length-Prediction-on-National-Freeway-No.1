@@ -107,12 +107,13 @@ Run `Extract_features/Extract_features_code.ipynb` first, then `Model_Training/M
 
 This project was a team effort.
 
-<!-- Bo-Ye's scope is inferred from the 【Writer】 annotation in the notebooks; please confirm with the team and fill in any remaining members. -->
+<!-- Scopes other than Wei-Jia Lin's are inferred from the commit history and the 【Writer】 annotation in the notebooks; please confirm with the team and fill in any remaining members. -->
 
 | Member | Scope |
 |---|---|
 | Wei-Jia Lin (林瑋珈) | Feature engineering and data processing (M03A traffic volume, M06A average speed, time-window alignment, weather data collection); Stage 2 regression model (MLP); paper writing and competition presentation |
-| Bo-Ye Li (李博業) | Stage 1 classification model (model selection, tuning, class weighting, SHAP analysis); code integration |
+| Bo-Ye Li (李博業) | Stage 1 classification model (model selection, tuning, class weighting, SHAP analysis); code integration and repository maintenance |
+| Iris Kuo | Documentation — the original README introduction and data source section; 〔remaining scope to be confirmed〕 |
 | 〔other members〕 | 〔to be filled〕 |
 
 ## Data and Licensing
