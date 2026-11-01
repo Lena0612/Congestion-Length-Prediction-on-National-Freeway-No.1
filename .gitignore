@@ -1,3 +1,5 @@
 *.zip
 *.exe
 *.chromedriver
+.ipynb_checkpoints/
+.DS_Store
